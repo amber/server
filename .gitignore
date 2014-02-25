@@ -1,3 +1,4 @@
 mongod
 data
+assets
 **/node_modules
